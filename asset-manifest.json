@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Aman-portfolio/static/css/main.eaafb5eb.css",
+    "main.js": "/Aman-portfolio/static/js/main.dd765024.js",
+    "static/media/Amazon clone.png": "/Aman-portfolio/static/media/Amazon clone.c3355e20a296bcd06322.png",
+    "static/media/To Do project.png": "/Aman-portfolio/static/media/To Do project.738e0172eecc45506151.png",
+    "static/media/Weather.png": "/Aman-portfolio/static/media/Weather.3b1a22b399a835acd937.png",
+    "static/media/digital clock.png": "/Aman-portfolio/static/media/digital clock.657c744d3b5d460225d0.png",
+    "static/media/download (1).jpg": "/Aman-portfolio/static/media/download (1).94285b315d03d362b50d.jpg",
+    "index.html": "/Aman-portfolio/index.html",
+    "main.eaafb5eb.css.map": "/Aman-portfolio/static/css/main.eaafb5eb.css.map",
+    "main.dd765024.js.map": "/Aman-portfolio/static/js/main.dd765024.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaafb5eb.css",
+    "static/js/main.dd765024.js"
+  ]
+}
